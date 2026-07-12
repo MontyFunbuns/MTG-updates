@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="-10%" r="130%">
+      <stop offset="0%" stop-color="#2a2050"/>
+      <stop offset="46%" stop-color="#170f2e"/>
+      <stop offset="100%" stop-color="#0a0712"/>
+    </radialGradient>
+    <radialGradient id="floor" cx="50%" cy="118%" r="70%">
+      <stop offset="0%" stop-color="#d89a3a" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#d89a3a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff3cf"/>
+      <stop offset="100%" stop-color="#d89a3a"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe9b0"/>
+      <stop offset="100%" stop-color="#d89a3a"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a6e6ba"/>
+      <stop offset="100%" stop-color="#5bbf7e"/>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="55"/></filter>
+    <filter id="dotglow" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+
+  <rect width="1200" height="440" fill="url(#bg)"/>
+  <rect width="1200" height="440" fill="url(#floor)"/>
+  <ellipse cx="120" cy="180" rx="240" ry="150" fill="#3a2c6e" opacity="0.5" filter="url(#soft)"/>
+  <ellipse cx="1120" cy="360" rx="230" ry="150" fill="#6e2c4e" opacity="0.42" filter="url(#soft)"/>
+  <rect x="1" y="1" width="1198" height="438" rx="18" fill="none" stroke="#d89a3a" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- version badge -->
+  <rect x="820" y="42" width="316" height="46" rx="23" fill="url(#pill)" stroke="#ffd874" stroke-width="2"/>
+  <text x="978" y="72" text-anchor="middle" font-size="20" font-weight="bold" fill="#2a1a06" letter-spacing="0.5">Version - 0.1.4 :: Stable</text>
+
+  <!-- eyebrow -->
+  <text x="64" y="118" font-size="15" font-weight="bold" letter-spacing="5" fill="#d89a3a">IT&#8217;S MAGIC TIME! &#183; WINDOWS DESKTOP &#183; UPDATE</text>
+
+  <!-- title (what it is) -->
+  <text x="60" y="216" font-size="92" font-weight="bold" fill="url(#gold)" letter-spacing="1">It&#8217;s Magic Time</text>
+
+  <!-- subtitle (what it is) -->
+  <text x="64" y="262" font-size="20" fill="#c9c2da">A Magic: the Gathering game for buds &amp; lady-buds &#8212; Windows 10 / 11 &#183; no admin needed</text>
+
+  <!-- what updated -->
+  <rect x="64" y="300" width="118" height="40" rx="8" fill="url(#green)"/>
+  <text x="123" y="327" text-anchor="middle" font-size="18" font-weight="bold" fill="#0e2a16" letter-spacing="1">&#10003; FIXED</text>
+  <text x="198" y="328" font-size="24" font-weight="bold" fill="#ffe6a6">Damage animations now render on the desktop again</text>
+
+  <!-- color engines -->
+  <g>
+    <circle cx="76" cy="386" r="10" fill="#d8553b" filter="url(#dotglow)"/><circle cx="76" cy="386" r="9" fill="#d8553b"/>
+    <circle cx="112" cy="386" r="10" fill="#3b7dd8" filter="url(#dotglow)"/><circle cx="112" cy="386" r="9" fill="#3b7dd8"/>
+    <circle cx="148" cy="386" r="10" fill="#3ba35a" filter="url(#dotglow)"/><circle cx="148" cy="386" r="9" fill="#3ba35a"/>
+    <circle cx="184" cy="386" r="10" fill="#8b7bc5" filter="url(#dotglow)"/><circle cx="184" cy="386" r="9" fill="#8b7bc5"/>
+    <circle cx="220" cy="386" r="10" fill="#e9e3c8" filter="url(#dotglow)"/><circle cx="220" cy="386" r="9" fill="#e9e3c8"/>
+    <text x="244" y="392" font-size="15" fill="#8f8aa2">Fire &#183; Water &#183; Leaf &#183; Dark &#183; Ki</text>
+  </g>
+</svg>
