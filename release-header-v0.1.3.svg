@@ -32,8 +32,8 @@
   <rect x="1" y="1" width="1198" height="438" rx="18" fill="none" stroke="#d89a3a" stroke-opacity="0.35" stroke-width="2"/>
 
   <!-- version badge -->
-  <rect x="980" y="42" width="156" height="46" rx="23" fill="url(#pill)" stroke="#ffd874" stroke-width="2"/>
-  <text x="1058" y="72" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a1a06" letter-spacing="1">v0.1.3 · stable</text>
+  <rect x="820" y="42" width="316" height="46" rx="23" fill="url(#pill)" stroke="#ffd874" stroke-width="2"/>
+  <text x="978" y="72" text-anchor="middle" font-size="20" font-weight="bold" fill="#2a1a06" letter-spacing="0.5">Version - 0.1.3 :: Stable</text>
 
   <!-- eyebrow -->
   <text x="64" y="118" font-size="15" font-weight="bold" letter-spacing="5" fill="#d89a3a">IT&#8217;S MAGIC TIME! &#183; WINDOWS DESKTOP &#183; UPDATE</text>
