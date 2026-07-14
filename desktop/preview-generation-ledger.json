@@ -42,6 +42,12 @@
       "sha": "298ff6f7586459a1e0e27260b059a61e2cc5104a",
       "runId": "29308135663",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "298ff6f7586459a1e0e27260b059a61e2cc5104a",
+      "runId": "29308135663",
+      "runAttempt": "1"
     }
   ]
 }
