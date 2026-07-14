@@ -30,6 +30,12 @@
       "sha": "0221c716e379d38aff2e51491343a6c1e3c5ff4d",
       "runId": "29304834094",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "0221c716e379d38aff2e51491343a6c1e3c5ff4d",
+      "runId": "29304834094",
+      "runAttempt": "1"
     }
   ]
 }
