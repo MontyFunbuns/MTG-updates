@@ -138,6 +138,12 @@
       "sha": "4067051258147116ceb0fdaf7e952dac47d99c1a",
       "runId": "29395093377",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "4067051258147116ceb0fdaf7e952dac47d99c1a",
+      "runId": "29395093377",
+      "runAttempt": "1"
     }
   ]
 }
