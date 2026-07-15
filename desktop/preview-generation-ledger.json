@@ -90,6 +90,12 @@
       "sha": "5d1646eee95feb3068085e07383df380d43d8c09",
       "runId": "29386941875",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "5d1646eee95feb3068085e07383df380d43d8c09",
+      "runId": "29386941875",
+      "runAttempt": "1"
     }
   ]
 }
