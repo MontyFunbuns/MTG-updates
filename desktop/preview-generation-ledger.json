@@ -258,6 +258,12 @@
       "sha": "75997a741efc136ce131e88f9e990135a42f8234",
       "runId": "29674737191",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "75997a741efc136ce131e88f9e990135a42f8234",
+      "runId": "29674737191",
+      "runAttempt": "1"
     }
   ]
 }
