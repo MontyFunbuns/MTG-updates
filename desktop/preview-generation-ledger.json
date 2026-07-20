@@ -330,6 +330,12 @@
       "sha": "8489b07b41b7fac05a5941e0ff80860ce057925d",
       "runId": "29719397648",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "8489b07b41b7fac05a5941e0ff80860ce057925d",
+      "runId": "29719397648",
+      "runAttempt": "1"
     }
   ]
 }
