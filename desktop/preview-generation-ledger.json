@@ -294,6 +294,12 @@
       "sha": "eba3be9d6da62b9bdf6c3e0887420d2f5db331a7",
       "runId": "29710104498",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "eba3be9d6da62b9bdf6c3e0887420d2f5db331a7",
+      "runId": "29710104498",
+      "runAttempt": "1"
     }
   ]
 }
