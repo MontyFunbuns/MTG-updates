@@ -390,6 +390,12 @@
       "sha": "49446f71034ce50ecbf1eea44e87407439662b1a",
       "runId": "30179191768",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "49446f71034ce50ecbf1eea44e87407439662b1a",
+      "runId": "30179191768",
+      "runAttempt": "1"
     }
   ]
 }
