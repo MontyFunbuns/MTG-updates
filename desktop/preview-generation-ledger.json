@@ -402,6 +402,12 @@
       "sha": "339f7c5c2a58a033e7060be85b226de7e46e690d",
       "runId": "30227946446",
       "runAttempt": "1"
+    },
+    {
+      "type": "advertised",
+      "sha": "339f7c5c2a58a033e7060be85b226de7e46e690d",
+      "runId": "30227946446",
+      "runAttempt": "1"
     }
   ]
 }
